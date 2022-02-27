@@ -1,0 +1,15 @@
+Static Token: Once generated can be used for all time.
+
+
+Dynamic Token: Valid for some amount of time.
+
+
+# Validations you do in API testing :
+- Status code
+- how much time it takes to give response
+- API response Vs DB validation [Data check]
+- Schema validation [content type] - JSON Schema is a vocabulary that allows you to annotate and validate JSON 
+				     documents. It describes your existing data format with clear, human- and 
+				     machine-readable documentation for complete structural validation, 
+				     useful for automated testing and validating client-submitted data.
+- Headers validation
